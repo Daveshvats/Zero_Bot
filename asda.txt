@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+break
+            case 'logo': case 'logo2': case 'logo3': case 'logo4': case 'logogaming': case 'logogirl': case 'logogold': case 'spiderlogo': case 'freefire': case 'crossfire': case 'valorant': case 'galaxy': case 'glass': case 'neon': case 'beach': case 'sparkling': case 'awan': case 'flower': case 'bohlam': case 'kaligrafi': case 'cokiat': case 'quotes': case 'grafity': case 'grafity3d':  case 'typography': case 'marmer': case 'proyektor': case 'quotesonline': case 'flashlight': case 'yasuologo': case 'starnight2': {
+                if (!text) return reply(`Enter Text, Example : ${prefix + command} Xeon`)
+                reply(mess.wait)
+                ZeroMdNx.sendMessage(m.chat, { image: { url: api('zenz', '/ephoto/' + command, { text: text }, 'apikey') }, caption: `Ephoto ${command}` }, { quoted: m})
+	    }
+
+=======
+break
+            case 'logo': case 'logo2': case 'logo3': case 'logo4': case 'logogaming': case 'logogirl': case 'logogold': case 'spiderlogo': case 'freefire': case 'crossfire': case 'valorant': case 'galaxy': case 'glass': case 'neon': case 'beach': case 'sparkling': case 'awan': case 'flower': case 'bohlam': case 'kaligrafi': case 'cokiat': case 'quotes': case 'grafity': case 'grafity3d':  case 'typography': case 'marmer': case 'proyektor': case 'quotesonline': case 'flashlight': case 'yasuologo': case 'starnight2': {
+                if (!text) return reply(`Enter Text, Example : ${prefix + command} Xeon`)
+                reply(mess.wait)
+                ZeroMdNx.sendMessage(m.chat, { image: { url: api('zenz', '/ephoto/' + command, { text: text }, 'apikey') }, caption: `Ephoto ${command}` }, { quoted: m})
+	    }
+
+>>>>>>> 0bcaff15ad2fd7027831cb45b12215596385ecf8
+        case 'lick':case 'kiss':case 'bite':case 'yeet':case 'neko':case 'bully':case 'bonk':case 'wink':case 'poke':case 'nom':case 'slap':case 'smile':case 'wave':case 'awoo':case 'blush':case 'smug':case 'glomp':case 'happy':case 'dance':case 'cringe':case 'cuddle':case 'highfive':case 'shinobu':case 'megumin':case 'handhold':
