@@ -8,19 +8,19 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'DAC2C16412', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['+91 7404854406']
-global.premium = ['+91 7404854406']
-global.ownernomer = '+91 7404854406'
+global.owner = ['+91 ----']
+global.premium = ['+91 -----']
+global.ownernomer = '+91 ------'
 global.ownername = 'Ghost'
 global.botname = 'Zero'
 global.footer = '©Ghost.'
-global.ig = 'vatsdavesh@gmai.com'
+global.ig = 'email.com'
 global.region = 'India'
-global.sc = 'vatsdavesh@gmail.com'
+global.sc = 'email.com'
 global.myweb = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 global.packname = 'zero'
 global.author = '⛓️'
