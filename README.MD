@@ -90,6 +90,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 |   Creator     |       ✅      |
 
 </details>
+<b><details><summary>Add bot to your group</summary><br>
+	
++91 8684934035
+
+</details>
 
 
 ----
